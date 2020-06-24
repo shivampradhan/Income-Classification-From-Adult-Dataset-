@@ -1,0 +1,13 @@
+pip install pandas;
+pip install numpy ;
+pip install seaborn;
+pip install pandas;
+pip install numpy ;
+pip install seaborn;
+pip install imblearn;
+pip install xgboost;
+pip install sklearn;
+pip install configparser;
+pip install joblib;
+pip install pickle;
+pip install os;
